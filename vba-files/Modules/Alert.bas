@@ -17,14 +17,3 @@ end sub
 
 
 
-'namespace=vba-files\Helpers
-
-
-'/*
-'
-'This comment block is used by XVBA to
-' show the sub info
-'
-'@return void
-'*/
-
